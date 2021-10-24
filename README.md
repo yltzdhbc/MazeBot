@@ -1,6 +1,6 @@
 > 📖 本项目更新于 2020 年 08 月 12 日
 
-![Mazebot v1 Top_name](IMAGES/Mazebot v1 Top_name.png)
+![Mazebot v1 Top_name](IMAGES/Top_name.png)
 
 MazeBot 始于2020年四月份，作为一个机器人研究者和爱好者，希望有一个硬件作为载体满足自己的软件的实验。
 
@@ -58,9 +58,6 @@ MazeBot 始于2020年四月份，作为一个机器人研究者和爱好者，�
 
 ### 渲染图
 
-![Mazebot v2 3](IMAGES/Mazebot v2 3.png)
+![Mazebot v2 3](IMAGES/3.png)
 
-![Mazebot v1 Front](IMAGES/Mazebot v1 Front.png)
-
-> 
-
+![Mazebot v1 Front](IMAGES/Front.png)
