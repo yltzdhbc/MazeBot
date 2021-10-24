@@ -1,17 +1,3 @@
----
-title: MazeBot-超迷你智能车
-comments: true
-cover: /img/cover_mazebot_compressed.jpg
-date: 2020-04-12 10:14:18
-tags:
-    - MazeBot
-    - stm32F4
-    - puzzle
-categories: 机器人系列
-top: 970
-
----
-
 > 📖 本项目更新于 2020 年 08 月 12 日
 
 ![Mazebot v1 Top_name](IMAGES/Mazebot v1 Top_name.png)
